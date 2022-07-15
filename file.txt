@@ -1,0 +1,4 @@
+1-Buen dia
+2-desayunando
+3-almuerzo
+4-cena
